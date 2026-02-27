@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year graduate student at Shanghai Jiao Tong University. My research interests primarily include computer vision (anomaly detection) and multimodal large models.
+I am a first-year master's student at Shanghai Jiao Tong University. My research interests primarily include computer vision (anomaly detection) and multimodal large models.
